@@ -1,0 +1,1 @@
+gcc user_goods_select.c yyjson.c -o user_goods_select -lsqlite3

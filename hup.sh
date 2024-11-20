@@ -1,0 +1,1 @@
+nohup /data/www/game/hxsg/hxsg_remake_server/setup.sh > ./sgjm.log 2>&1 &
